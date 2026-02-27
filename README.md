@@ -46,7 +46,7 @@ Libraries used:
 - Images were also displayed using matplotlib.
 
 ## Output Location
-The augmented images were saved.
+The augmented images were savedin augmented_image folder.
 
 ## Conclusion
 Data augmentation helps improve deep learning model generalization by increasing dataset diversity and reducing overfitting.
